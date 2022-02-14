@@ -1,0 +1,38 @@
+// System / Log files 
+*.DS_Store
+*.log
+
+// Archives
+*.zip
+
+// Sass Cache
+.sass-cache
+
+// Project files
+.idea
+nbproject
+nbproject/private
+.vscode/
+.vs/
+
+// Node / Bower
+node_modules/
+bower_components/
+
+// Plugins
+/../Admin_Dashboard/plugins/*/*.md
+/../Admin_Dashboard/plugins/*/*.html
+/../Admin_Dashboard/plugins/*/package.json
+
+
+// Docs
+Gemfile.lock
+docs/_site
+docs_html/
+.jekyll-cache/
+.jekyll-metadata
+
+// ETC
+TODO
+test.html
+ad.js

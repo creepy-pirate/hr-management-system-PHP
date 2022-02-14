@@ -1,0 +1,5 @@
+**/*.min.js
+**/../Admin_Dashboard/plugins/*
+**/dist/*
+**/build/npm
+ad.js
